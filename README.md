@@ -183,6 +183,7 @@ Foong, Ru-Xin, et al. “Asthma, Food Allergy, and How They Relate to Each Other
 Hill, David A., et al. “The Epidemiologic Characteristics of Healthcare Provider-Diagnosed Eczema, Asthma, Allergic Rhinitis, and Food Allergy in Children: A Retrospective Cohort Study.” BMC Pediatrics, vol. 16, Aug. 2016, p. 133. PubMed, https://doi.org/10.1186/s12887-016-0673-z.
 
 Illi, Sabina, et al. “The Natural Course of Atopic Dermatitis from Birth to Age 7 Years and the Association with Asthma.” The Journal of Allergy and Clinical Immunology, vol. 113, no. 5, May 2004, pp. 925–31. PubMed, https://doi.org/10.1016/j.jaci.2004.01.778.
+
 Jacques, Camille, and Ilaria Floris. “How an Immune-Factor-Based Formulation of Micro-Immunotherapy Could Interfere with the Physiological Processes Involved in the Atopic March.” International Journal of Molecular Sciences, vol. 24, no. 2, Jan. 2023, p. 1483. PubMed, https://doi.org/10.3390/ijms24021483.
 
 Spergel, Jonathan M. “From Atopic Dermatitis to Asthma: The Atopic March.” Annals of Allergy, Asthma & Immunology: Official Publication of the American College of Allergy, Asthma, & Immunology, vol. 105, no. 2, Aug. 2010, pp. 99–106; quiz 107–09, 117. PubMed, https://doi.org/10.1016/j.anai.2009.10.002.
