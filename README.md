@@ -174,26 +174,19 @@ Key finding:
 
 # References
 
-Hill, D. A., et al. (2016).
-The epidemiologic characteristics of healthcare provider-diagnosed eczema, asthma, allergic rhinitis, and food allergy in children.
-BMC Pediatrics.
+Alduraywish, Shatha A., et al. “Is There a March from Early Food Sensitization to Later Childhood Allergic Airway Disease? Results from Two Prospective Birth Cohort Studies.” Pediatric Allergy and Immunology: Official Publication of the European Society of Pediatric Allergy and Immunology, vol. 28, no. 1, Feb. 2017, pp. 30–37. PubMed, https://doi.org/10.1111/pai.12651.
 
-Foong, R.-X., et al. (2017).
-Asthma, food allergy, and how they relate to each other.
-Frontiers in Pediatrics.
+Chabra, Rina, and Mohit Gupta. “Allergic and Environmentally Induced Asthma.” StatPearls, StatPearls Publishing, 2026. PubMed, http://www.ncbi.nlm.nih.gov/books/NBK526018/.
 
-Spergel, J. (2010).
-From atopic dermatitis to asthma: the atopic march.
-Annals of Allergy, Asthma & Immunology.
+Foong, Ru-Xin, et al. “Asthma, Food Allergy, and How They Relate to Each Other.” Frontiers in Pediatrics, vol. 5, May 2017. Frontiers, https://doi.org/10.3389/fped.2017.00089.
 
-Illi, S., et al. (2004).
-The natural course of atopic dermatitis and association with asthma.
-Journal of Allergy and Clinical Immunology.
+Hill, David A., et al. “The Epidemiologic Characteristics of Healthcare Provider-Diagnosed Eczema, Asthma, Allergic Rhinitis, and Food Allergy in Children: A Retrospective Cohort Study.” BMC Pediatrics, vol. 16, Aug. 2016, p. 133. PubMed, https://doi.org/10.1186/s12887-016-0673-z.
 
-Alduraywish, S. A., et al. (2017).
-Early food sensitization and allergic airway disease.
-Pediatric Allergy and Immunology.
+Illi, Sabina, et al. “The Natural Course of Atopic Dermatitis from Birth to Age 7 Years and the Association with Asthma.” The Journal of Allergy and Clinical Immunology, vol. 113, no. 5, May 2004, pp. 925–31. PubMed, https://doi.org/10.1016/j.jaci.2004.01.778.
+Jacques, Camille, and Ilaria Floris. “How an Immune-Factor-Based Formulation of Micro-Immunotherapy Could Interfere with the Physiological Processes Involved in the Atopic March.” International Journal of Molecular Sciences, vol. 24, no. 2, Jan. 2023, p. 1483. PubMed, https://doi.org/10.3390/ijms24021483.
 
-Vermeulen, E. M., et al. (2018).
-Food allergy as a risk factor for childhood asthma.
-Journal of Allergy and Clinical Immunology Practice.
+Spergel, Jonathan M. “From Atopic Dermatitis to Asthma: The Atopic March.” Annals of Allergy, Asthma & Immunology: Official Publication of the American College of Allergy, Asthma, & Immunology, vol. 105, no. 2, Aug. 2010, pp. 99–106; quiz 107–09, 117. PubMed, https://doi.org/10.1016/j.anai.2009.10.002.
+
+Stern, Jessica, et al. “Asthma Epidemiology and Risk Factors.” Seminars in Immunopathology, vol. 42, no. 1, Feb. 2020, pp. 5–15. Springer Link, https://doi.org/10.1007/s00281-020-00785-1.
+
+Vermeulen, Evelien M., et al. “Food Allergy Is an Important Risk Factor for Childhood Asthma, Irrespective of Whether It Resolves.” The Journal of Allergy and Clinical Immunology. In Practice, vol. 6, no. 4, 2018, pp. 1336-1341.e3. PubMed, https://doi.org/10.1016/j.jaip.2017.10.019.
